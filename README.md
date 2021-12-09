@@ -9,7 +9,9 @@
   
   <a href="https://discord.com/users/827878458700070942">
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918421490746159114/logoDiscord.png">
-  
+  <a href="https://steamcommunity.com/id/b2856203">
+  <img src="https://cdn.discordapp.com/attachments/788756990917869588/918421990359052288/Steam.png">
+    
 <div align="center">
   <br>
     <strong>Stats Github</strong>
