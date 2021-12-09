@@ -8,7 +8,7 @@
 </div>
   
   <a href="https://discord.com/users/827878458700070942">
-  <img src="https://1000marken.net/wp-content/uploads/2021/01/Discord-Symbol.svg">
+  <img src="https://th.bing.com/th/id/R.b7ff096590f2de8a3aafff02b6d09095?rik=S8RMQVE8Gy98gA&pid=ImgRaw&r=0">
   
 <div align="center">
   <br>
