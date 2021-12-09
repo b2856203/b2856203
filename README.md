@@ -7,6 +7,10 @@
   <br>
 </div>
   
+  <div align="center">
+  <br>
+    <strong>Profils</strong>
+  </div>
 <div align="center">
   <br>
   <a href="https://discord.com/users/827878458700070942">
@@ -22,3 +26,4 @@
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2856203)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b2856203)
+</div>
