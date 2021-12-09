@@ -27,10 +27,3 @@
   </a>
 
 </div>
-
-  <div align="center">
-  <br>
-  <a href="https://discord.gg/RMSBwxmvbt">
-  <img src="https://i.imgur.com/lxnpMDT.png">
-</a>
-    </div>
