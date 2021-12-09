@@ -17,7 +17,8 @@
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918422993078743050/Reddit.png">
   <a href="https://www.youtube.com/channel/UCpu_zc51MSk13bN5b9aprQA">
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918473473200885790/youtube.png">
-
+  <a href="https://www.namemc.com/b2856203">
+  <img src="https://cdn.discordapp.com/attachments/788756990917869588/918473698296627240/minecraft.png">
  </div>
 <div align="center">
   <br>
