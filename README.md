@@ -11,7 +11,7 @@
   </a>
     <br>
      <a href="https://discord.com/users/827878458700070942">
-    <img src="https://img.shields.io/badge/Profil-discord-5B5A59">
+    <img src="https://img.shields.io/badge/Profil-discord-5964F2">
   </a>
       <br>
      <a href="https://steamcommunity.com/id/b2856203/">
