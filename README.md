@@ -7,6 +7,9 @@
   <br>
 </div>
   
+  <a href="https://discord.com/users/827878458700070942">
+  <img src="https://1000marken.net/wp-content/uploads/2021/01/Discord-Symbol.svg">
+  
 <div align="center">
   <br>
     <strong>Stats Github</strong>
