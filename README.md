@@ -18,8 +18,9 @@
      <a href="https://www.reddit.com/user/Geek-Maskes-1">
     <img src="https://img.shields.io/badge/Profil-Reddit-5B5A59">
   </a>
-       <a href="https://discord.com/users/826394942334435338">
-    <img src="https://img.shields.io/badge/Organisateur:-THE_FABEX-5B5A59">
+        <br>
+       <a href="https://www.youtube.com/channel/UCpu_zc51MSk13bN5b9aprQA">
+    <img src="https://img.shields.io/badge/Chaîne-YouTube-5B5A59">
   </a>
 
 </div>
