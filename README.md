@@ -11,6 +11,8 @@
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918421490746159114/logoDiscord.png">
   <a href="https://steamcommunity.com/id/b2856203">
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918421990359052288/Steam.png">
+  <a href="https://reddit.com/user/geek-maskes-1">
+  <img src="https://cdn.discordapp.com/attachments/788756990917869588/918422993078743050/Reddit.png">
     
 <div align="center">
   <br>
