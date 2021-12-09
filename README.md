@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  https://cdn.discordapp.com/avatars/827878458700070942/a_64186509ebc9de8be55a2afd461d563d.gif?size=512
+  <a href="https://cdn.discordapp.com/avatars/827878458700070942/a_64186509ebc9de8be55a2afd461d563d.gif?size=512">
   <br>
   <strong>b2856203</strong>
   <br>
