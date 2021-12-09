@@ -28,5 +28,8 @@
 
 </div>
   
+<div align="center">
+  <br>
+    <strong>Stats Github</strong>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2856203)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b2856203)
