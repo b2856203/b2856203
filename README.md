@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <strong><i>b2856203</i></strong>
+  <strong>b2856203</strong>
   <br>
   <br>
    <a href="https://geekmaskedland.tk">
