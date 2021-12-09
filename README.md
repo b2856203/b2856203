@@ -7,7 +7,7 @@
   <br>
   <br>
    <a href="https://fr.namemc.com/profile/b2856203.1">
-    <img src="https://img.shields.io/badge/Profil-Minecraft-5B5A59">
+    <img src="https://img.shields.io/badge/Profil-Minecraft-4CE200">
   </a>
     <br>
      <a href="https://discord.com/users/827878458700070942">
@@ -15,15 +15,15 @@
   </a>
       <br>
      <a href="https://steamcommunity.com/id/b2856203/">
-    <img src="https://img.shields.io/badge/Profil-Steam-5B5A59">
+    <img src="https://img.shields.io/badge/Profil-Steam-1B2838">
   </a>
       <br>
      <a href="https://www.reddit.com/user/Geek-Maskes-1">
-    <img src="https://img.shields.io/badge/Profil-Reddit-5B5A59">
+    <img src="https://img.shields.io/badge/Profil-Reddit-FF4500">
   </a>
         <br>
        <a href="https://www.youtube.com/channel/UCpu_zc51MSk13bN5b9aprQA">
-    <img src="https://img.shields.io/badge/Chaîne-YouTube-5B5A59">
+    <img src="https://img.shields.io/badge/Chaîne-YouTube-FF0000">
   </a>
 
 </div>
