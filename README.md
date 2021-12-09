@@ -30,7 +30,7 @@
 
   <div align="center">
   <br>
-  <a href="https://discord.com/users/827878458700070942">
-  <img src="https://i.imgur.com/Q5cTGnX.png">
+  <a href="https://discord.gg/RMSBwxmvbt">
+  <img src="https://i.imgur.com/lxnpMDT.png">
 </a>
     </div>
