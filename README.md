@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/badge/Profil-discord-5B5A59">
   </a>
       <br>
-     <a href="https://discord.com/users/605266041601261581">
-    <img src="https://img.shields.io/badge/admin:-Messir21-5B5A59">
+     <a href="https://steamcommunity.com/id/b2856203/">
+    <img src="https://img.shields.io/badge/Profil-Steam-5B5A59">
   </a>
       <br>
-     <a href="https://discord.com/users/845337551677161524">
-    <img src="https://img.shields.io/badge/Organisateur:-Jean Frédérick-5B5A59">
+     <a href="https://www.reddit.com/user/Geek-Maskes-1">
+    <img src="https://img.shields.io/badge/Profil-Reddit-5B5A59">
   </a>
        <a href="https://discord.com/users/826394942334435338">
     <img src="https://img.shields.io/badge/Organisateur:-THE_FABEX-5B5A59">
