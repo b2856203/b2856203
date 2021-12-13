@@ -27,10 +27,14 @@
 <div align="center">
   <br>
   **GeekMaskesLandMC • Fondateur**
+  <br>
   **Communauté | Geek Maskés 1 • Fondateur**
+  <br>
   **THE_FABEX • Administrateur et responsable discord**
+  <br>
   **Armée de Xomanane City • Administrateur et responsable discord**
+  <br>
   **FABX Studio • Développeur et Modérateur**
+  <br>
   **Xania • Modérateur Discord**
- 
  </div>
