@@ -1,8 +1,5 @@
 # **b2856203** 
-  <div align="center">
-  <br>
-    <strong>Profils</strong>
-  </div>
+## Profils
 <div align="center">
   <br>
   <a href="https://discord.com/users/827878458700070942">
@@ -16,14 +13,12 @@
   <a href="https://www.namemc.com/b2856203">
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918473698296627240/minecraft.png">
  </div>
-<div align="center">
-  <br>
-    <strong>Stats Github</strong>
-  
+   
+## Stats github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2856203)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b2856203)
-</div>
 
+## Grades
 <div align="center">
   <br>
   <strong>GeekMaskesLandMC • Fondateur</strong>
