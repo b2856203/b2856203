@@ -23,3 +23,14 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2856203)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b2856203)
 </div>
+
+<div align="center">
+  <br>
+  **GeekMaskesLandMC • Fondateur**
+  **Communauté | Geek Maskés 1 • Fondateur**
+  **THE_FABEX • Administrateur et responsable discord**
+  **Armée de Xomanane City • Administrateur et responsable discord**
+  **FABX Studio • Développeur et Modérateur**
+  **Xania • Modérateur Discord**
+ 
+ </div>
