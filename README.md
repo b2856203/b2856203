@@ -45,3 +45,6 @@
     <br>
   <a href="https://discord.gg/ANzrK5PwHZ">
   <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/xomananecityarmy.png">
+    <br>
+  <a href="https://discord.gg/C9NpMEV4tu">
+  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/fabxstudio.png">
