@@ -37,6 +37,7 @@
     </div>
     
 ## Liens utiles
+<div align="center">
     <br>
   <a href="https://discord.gg/RMSBwxmvbt">
   <img src="https://cdn.discordapp.com/attachments/788756990917869588/918421490746159114/logoDiscord.png">
