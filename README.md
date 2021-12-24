@@ -32,4 +32,6 @@
   <strong>FABX Studio • Développeur et Modérateur</strong>
   <br>
   <strong>Xania • Modérateur Discord</strong>
+    <br>
+  <strong>Mountain Camp • Modérateur, Helper, Modérateur, Développeur</strong>
     </div>
