@@ -39,3 +39,6 @@
     <br>
   <a href="https://discord.gg/RMSBwxmvbt">
   <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/geekmaskeslandmc.png">
+    <br>
+  <a href="https://discord.gg/Qrw5Q9b24T">
+  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/geekmaskeslandmc.png">
