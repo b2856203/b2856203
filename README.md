@@ -33,5 +33,5 @@
   <br>
   <strong>Xania • Modérateur Discord</strong>
     <br>
-  <strong>[Mountain Camp • Modérateur, Helper, Modérateur, Développeur](https://raw.githubusercontent.com/b2856203/b2856203/main/comingsoon.png)</strong>
+  <strong[Mountain Camp • Modérateur, Helper, Modérateur, Développeur</strong>
     </div>
