@@ -23,8 +23,6 @@
   <br>
   <strong>GeekMaskesLandMC • Fondateur</strong>
   <br>
-  <strong>Communauté | Geek Maskés 1 • Fondateur</strong>
-  <br>
   <strong>THE_FABEX • Administrateur et responsable discord</strong>
   <br>
   <strong>Armée de Xomanane City • Administrateur et responsable discord</strong>
