@@ -1,5 +1,4 @@
 # **b2856203** 
-Développeur. *Non je viendrais pas sur vos servs pour dev x), mais vous pouvez utiliser mes contenus opensource*
 ## Profils
 <div align="center">
   <br>
