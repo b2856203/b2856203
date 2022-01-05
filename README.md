@@ -32,24 +32,9 @@ Développeur. *Non je viendrais pas sur vos servs pour dev x), mais vous pouvez 
   <br>
   <strong>Xania • Modérateur Discord</strong>
     <br>
-  <strong[Mountain Camp • Modérateur, Helper, Modérateur, Développeur</strong>
+  <strong>Mountain Camp • Modérateur, Helper, Modérateur, Développeur</strong>
+  <br>
+  <strong>Nepust • Support</strong>
     </div>
     
 ## Liens utiles
-<div align="center">
-    <br>
-  <a href="https://discord.gg/RMSBwxmvbt">
-  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/geekmaskeslandmc.png">
-    <br>
-  <a href="https://discord.gg/Qrw5Q9b24T">
-  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/thefabexofficial.png">
-    <br>
-  <a href="https://discord.gg/ANzrK5PwHZ">
-  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/xomananecityarmy.png">
-    <br>
-  <a href="https://discord.gg/C9NpMEV4tu">
-  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/fabxstudio.png">
-     <br>
-  <a href="https://github.com/b2856203/b2856203/blob/main/comingsoon.png?raw=true">
-  <img src="https://raw.githubusercontent.com/b2856203/b2856203/main/images/mountaincamp.png">
-</div>
