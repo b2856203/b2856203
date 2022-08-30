@@ -17,23 +17,3 @@
 ## Stats github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2856203)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b2856203)
-
-## Grades
-<div align="center">
-  <br>
-  <strong>GeekMaskesLandMC • Fondateur</strong>
-  <br>
-  <strong>THE_FABEX • Administrateur et responsable discord</strong>
-  <br>
-  <strong>Armée de Xomanane City • Administrateur et responsable discord</strong>
-  <br>
-  <strong>FABX Studio • Développeur et Modérateur</strong>
-  <br>
-  <strong>Xania • Modérateur Discord</strong>
-    <br>
-  <strong>Mountain Camp • Modérateur, Helper, Modérateur, Développeur</strong>
-  <br>
-  <strong>Nepust • Support</strong>
-    </div>
-    
-## Liens utiles
